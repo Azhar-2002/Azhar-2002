@@ -5,9 +5,9 @@
 🎓 Computer Science Graduate  
 🚀 Currently building my own AI assistant.  
 
-## 📫 Reach me at: [amanansarifz2012@gmail.com](mailto:amanansarifz2012@gmail.com)  
-🌐 [Portfolio](https://your-portfolio-link.com)  
-📄 [Resume](https://drive.google.com/file/d/1fTPEKnYmwVH0w1C47cDADfeKHLxfvlq7/view?usp=sharing)  
+### 📫 Reach me at: [amanansarifz2012@gmail.com](mailto:amanansarifz2012@gmail.com)  
+###🌐 Visit my [Portfolio](https://your-portfolio-link.com)  
+###📄 Take a look at my [Resume](https://drive.google.com/file/d/1fTPEKnYmwVH0w1C47cDADfeKHLxfvlq7/view?usp=sharing)  
 
 ### 🌍 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azhar_9020/)
