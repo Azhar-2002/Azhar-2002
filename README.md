@@ -4,7 +4,7 @@
 💻 I’m a Software Developer passionate about creating intelligent, scalable, and impactful solutions in AI, Web Development.
 🎓 Computer Science Graduate  
 🚀 Currently building my own AI assistant.  
-![Profile views](https://komarev.com/ghpvc/?username=Azhar-2002&color=blue)
+
 ### 📫 Reach me at: [amanansarifz2012@gmail.com](mailto:amanansarifz2012@gmail.com)  
 ### 🌐 Visit my [Portfolio](https://azhar-portfolio-pied.vercel.app/)  
 ### 📄 Take a look at my [Resume](https://drive.google.com/file/d/1fTPEKnYmwVH0w1C47cDADfeKHLxfvlq7/view?usp=sharing)  
