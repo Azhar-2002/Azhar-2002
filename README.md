@@ -40,9 +40,12 @@
 
 
 ### 📈 GitHub Stats:
-![Azhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azhar-2002&show_icons=true&theme=react&cache_bust=2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-2002&layout=compact&theme=react&cache_bust=2)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azhar-2002&theme=react&cache_bust=2)
+![Azhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azhar-2002&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azhar-2002&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Azhar-2002&theme=tokyonight)
+
 
 ![Azhar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azhar-2002&theme=react-dark)
 
