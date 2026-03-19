@@ -5,7 +5,7 @@
 🎓 Computer Science Graduate  
 🚀 Currently building my own AI assistant.  
 
-### 📫 Reach me at: [amanansarifz2012@gmail.com](mailto:amanansarifz2012@gmail.com)  
+### 📫 Reach me at: [md.azhar98984@gmail.com](mailto:md.azhar98984@gmail.com)  
 ### 🌐 Visit my [Portfolio](https://azhar-portfolio-pied.vercel.app/)  
 ### 📄 Take a look at my [Resume](https://drive.google.com/file/d/1rB7wnpTJpm2Oxt-BOY9MAMx-Kx3MLqbZ/view?usp=sharing)  
 
